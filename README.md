@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on Chemical Informatics, General/Medical Image Processing ... 
 - 📫 How to reach me ... (Just leave your message on my GitHub channel)
 - 🙃 Something about me ...
-     Hi, This is Shaole CHANG. Until now I have learned ML/DL for almost five years. Of course, I also did lots of ML/DL projects. Most of them are about computer vision. In this GitHub channel, I will keep sharing both the theoretical  & applied ML/DL. (Recording & Sharing ...) 
+- Hi, This is Shaole CHANG. Until now I have learned ML/DL for almost five years. Of course, I also did lots of ML/DL projects. Most of them are about computer vision. In this GitHub channel, I will keep sharing both the theoretical  & applied ML/DL. (Recording & Sharing ...) 
 
 <!---
 ChangShaole/ChangShaole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
